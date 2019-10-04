@@ -1,0 +1,231 @@
+#EXTM3U
+#EXTINF:-1,3sat
+https://zdfhls18-i.akamaihd.net/hls/live/744751/dach/high/master.m3u8
+#EXTINF:-1,arte
+http://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8
+#EXTINF:-1,ARD-Alpha
+http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8
+#EXTINF:-1,Das Erste HD
+https://derste247livede.akamaized.net/hls/live/658317/daserste_de/master.m3u8
+#EXTINF:-1,Das Erste (mcdn)
+https://mcdn.daserste.de/daserste/de/master_3744.m3u8
+#EXTINF:-1,Deutsche Welle
+http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/master.m3u8
+#EXTINF:-1,One HD
+http://onelivestream-lh.akamaihd.net/i/one_livestream@568814/master.m3u8
+#EXTINF:-1,Phoenix
+https://zdfhls19-i.akamaihd.net/hls/live/744752/de/high/master.m3u8
+#EXTINF:-1,ZDF HD
+https://zdf-hls-01.akamaized.net/hls/live/2002460/de/high/master.m3u8
+#EXTINF:-1,ZDF info
+https://zdfhls17-i.akamaihd.net/hls/live/744750/de/high/master.m3u8
+#EXTINF:-1,ZDF neo
+https://zdf-hls-02.akamaized.net/hls/live/2002461/de/high/master.m3u8
+#EXTINF:-1,Tagesschau 24
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
+#EXTINF:-1,BR HD Nord
+http://livestreams.br.de/i/bfsnord_germany@119898/master.m3u8
+#EXTINF:-1,BR HD Sued
+http://livestreams.br.de/i/bfssued_germany@119890/master.m3u8
+#EXTINF:-1,HR
+http://live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/master.m3u8
+#EXTINF:-1,KiKa HD
+https://kikade-lh.akamaihd.net/i/livetvkika_de@450035/master.m3u8
+#EXTINF:-1,MDR Sachsen
+https://mdrsnhls-lh.akamaihd.net/i/livetvmdrsachsen_de@513998/master.m3u8
+#EXTINF:-1,MDR Sachsen-Anhalt
+https://mdrsahls-lh.akamaihd.net/i/livetvmdrsachsenanhalt_de@513999/master.m3u8
+#EXTINF:-1,MDR Thüringen
+https://mdrthuhls-lh.akamaihd.net/i/livetvmdrthueringen_de@514027/master.m3u8
+#EXTINF:-1,NDR Hamburg
+https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/master.m3u8
+#EXTINF:-1,NDR Mecklenburg-Vorpommern
+https://ndrfs-lh.akamaihd.net/i/ndrfs_mv@430232/master.m3u8
+#EXTINF:-1,NDR Niedersachsen
+https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/index_3776_av-p.m3u8
+#EXTINF:-1,NDR Schleswig-Holstein
+https://ndrfs-lh.akamaihd.net/i/ndrfs_sh@430234/master.m3u8
+#EXTINF:-1,RBB Berlin
+https://rbblive-lh.akamaihd.net/i/rbb_berlin@144674/master.m3u8
+#EXTINF:-1,RBB Brandenburg
+https://rbblive-lh.akamaihd.net/i/rbb_brandenburg@349369/master.m3u8
+#EXTINF:-1,SR HD
+http://livestream.sr-online.de/live.m3u8
+#EXTINF:-1,SWR HD Baden-Württemberg
+https://swrbwhls-i.akamaihd.net/hls/live/667638/swrbwd/master.m3u8
+#EXTINF:-1,SWR HD Rheinland-Pfalz
+http://swrrp-lh.akamaihd.net/i/swrrp_live@196739/master.m3u8
+#EXTINF:-1,WDR HD (geoblocking)
+http://wdrfsgeo-lh.akamaihd.net/i/wdrfs_geogeblockt@530016/master.m3u8
+#EXTINF:-1,WDR HD (weltweit)
+http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
+#EXTINF:-1,sky Sport News HD
+https://eventhlshttps-i.akamaihd.net/hls/live/263645/ssn-hd-https/index.m3u8
+#EXTINF:-1,N24
+https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/master.m3u8
+#EXTINF:-1,n-tv (nicht aktuell!)
+https://ntvlivehls-lh.akamaihd.net/i/ntvlivehls_1@409250/master.m3u8
+#EXTINF:-1,Bundestag Parlamentfensehen 1
+https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk1.m3u8
+#EXTINF:-1,Bundestag Parlamentfensehen 2
+https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk2.m3u8
+#EXTINF:-1,a.tv
+https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/master.m3u8
+#EXTINF:-1,Alex TV
+https://alex-net.rosebud-media.de/bounce/alexlivetv20.smil/playlist.m3u8
+#EXTINF:-1,Allgäu TV
+http://tvallgaeu.iptv-playoutcenter.de:1935/tvallgaeu/tvallgaeu.stream_2/playlist.m3u8
+#EXTINF:-1,Anixa
+https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
+#EXTINF:-1,Chemnitz Fernsehen
+https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_2/playlist.m3u8
+#EXTINF:-1,Donau TV
+http://donautv.iptv-playoutcenter.de:1935/donautv/donautv.stream_1/playlist.m3u8
+#EXTINF:-1,Dresden Fernsehen
+https://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_2/playlist.m3u8
+#EXTINF:-1,DRF 1
+http://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:5713-mbr.smil/master.m3u8
+#EXTINF:-1,Franken TV
+http://frankentv.iptv-playoutcenter.de:1935/frankentv/frankentv.stream_1/playlist.m3u8
+#EXTINF:-1,Hannover 1
+https://5857499ee635b.streamlock.net/heinstv-live/_definst_/smil:livestream.smil/playlist.m3u8
+#EXTINF:-1,Isar TV
+https://isar-tv.iptv-playoutcenter.de/isar-tv/isar-tv.stream_1/playlist.m3u8
+#EXTINF:-1,Kulturmd TV
+http://62.113.210.250/medienasa-live/_definst_/mp4:kulturmd_high/playlist.m3u8
+#EXTINF:-1,L TV (Baden Württemberg)
+http://62.113.221.4/tv2000plus-live/_definst_/mp4:livestream3.stream/playlist.m3u8
+#EXTINF:-1,Leipzig Fernsehen
+https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_2/playlist.m3u8
+#EXTINF:-1,MDF.1
+http://62.113.210.250/medienasa-live/mdf1_high/playlist.m3u8
+#EXTINF:-1,Metropolregion TV
+http://62.113.210.9:1935/metropolregiontv-live/livestream/playlist.m3u8
+#EXTINF:-1,nickelodeon
+http://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/master.m3u8
+#EXTINF:-1,Nrwision
+https://fms.nrwision.de/live/livestreamHD.stream_360p/playlist.m3u8
+#EXTINF:-1,Oberpfalz TV
+https://586dce1287bfd.streamlock.net/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8
+#EXTINF:-1,Oldenburg Eins
+http://188.40.16.94:1935/live/studio/playlist.m3u8
+#EXTINF:-1,OK Koblenz
+http://stream-cdn.ok54.de/hls/ok4.m3u8
+#EXTINF:-1,OK Trier
+http://stream-cdn.ok54.de/hls/ok54.m3u8
+#EXTINF:-1,Potsdam TV
+https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/mp4:5654_9rRqfHQLh4Yd6pm/playlist.m3u8
+#EXTINF:-1,Regio TV Schwaben
+http://regiotv.iptv-playoutcenter.de:1935/regiotv/regiotv.stream_1/playlist.m3u8
+#EXTINF:-1,RFO TV
+http://rfo.iptv-playoutcenter.de:1935/rfo/rfo.stream_2/playlist.m3u8
+#EXTINF:-1,Rheinmain TV
+http://62.67.13.54:1935/rmtv/rmtv_livestream/playlist.m3u8
+#EXTINF:-1,RiC
+https://58b42f6c8c9bf.streamlock.net:8080/live/rictv/playlist.m3u8
+#EXTINF:-1,RNF TV
+http://rnf.iptv-playoutcenter.de:1935/rnf/rnf.stream_1/playlist.m3u8
+#EXTINF:-1,Studio 47 Duisburg
+https://5852afe96c9bb.streamlock.net/studio47-live/_definst_/mp4:livestream/playlist.m3u8
+#EXTINF:-1,Sylt 1 
+http://62.67.13.54:1935/sylt1/sylt1_high.stream/chunklist.m3u8
+#EXTINF:-1,Teins
+https://live1.markenfunk.com/t1/ngrp:live_all/playlist.m3u8
+#EXTINF:-1,Teleregional Passau
+http://teleregionalpassau1.iptv-playoutcenter.de:1935/teleregionalpassau1/teleregionalpassau1.stream_1/playlist.m3u8
+#EXTINF:-1,Tide TV
+https://5889e7d0d6e28.streamlock.net/tide-live/_definst_/smil:livestream.smil/playlist.m3u8
+#EXTINF:-1,Tirol TV
+http://lb.hd-livestream.de:1935/live/TirolTV/playlist.m3u8
+#EXTINF:-1,tv38
+http://62.113.221.3/tv38-live/_definst_/mp4:livestream/playlist.m3u8
+#EXTINF:-1,TVA
+https://tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8
+#EXTINF:-1,TV Baden
+https://cdn.icu.de/rtplive/btv.stream/playlist.m3u8
+#EXTINF:-1,TV Berlin
+https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/amlst:7649-sbr/playlist.m3u8
+#EXTINF:-1,TV Mainfranken
+https://tvtouringw.iptv-playoutcenter.de/tvtouringw/tvtouringw.stream_1/playlist.m3u8
+#EXTINF:-1,TVO
+https://tvoberfranken.iptv-playoutcenter.de/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
+#EXTINF:-1,TVM / WWTV
+https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:5715-mbr.smil/playlist.m3u8
+#EXTINF:-1,TV Mittelrhein
+https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:5714-mbr.smil/playlist.m3u8
+#EXTINF:-1,TV Oberfranken
+https://586dce1287bfd.streamlock.net/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
+#EXTINF:-1,Welt der Wunder
+http://live.vidoo.de/live/weltderwunder/master.m3u8
+#EXTINF:-1,MyTVplus
+rtmp://62.67.13.54/MyTVplus/mtvp_livestream_2.stream
+#EXTINF:-1,Euronews / H1
+http://livestream.htp.tv/hls-live/livepkgr/_definst_/H1/H1_HQ.m3u8
+#EXTINF:-1,Deluxe Music
+https://streaming-02.mivitec.net/live/smil:test.smil/chunklist_w1113445331_b1740814_slDE.m3u8
+#EXTINF:-1,Deutsches Musik Fernsehen
+https://tv.artcom-venture.de/dmf/tv_720.m3u8
+#EXTINF:-1,Folx TV
+http://46.101.244.86:8081/folx-abr/live-abr/fle/fle1/playlist.m3u8
+#EXTINF:-1,Magenta 360° VR-Camera
+https://streaming-magenta-music-360.akamaized.net/hls/live/504583/mm360_vr1/index.m3u8
+#EXTINF:-1,Magenta Music 360
+https://streaming-magenta-music-360.akamaized.net/hls/live/504581/magentamusik1/index.m3u8
+#EXTINF:-1,MTV 
+https://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/master.m3u8
+#EXTINF:-1,Austria 24 TV (Austria)
+rtmp://streaming.austria24.tv/live/mp4:stream_720p
+#EXTINF:-1,Dorf tv (Austria)
+https://stream.openplayout.org/hls/dorf_high/index.m3u8
+#EXTINF:-1,Go TV (Austria)
+http://nstream17.gotv.at:1936/live/gotvlive_576p/playlist.m3u8
+#EXTINF:-1,Kronehit TV (Austria)
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+#EXTINF:-1,M4 TV (Austria)
+https://5a32c05065c79.streamlock.net/live/stream/playlist.m3u8
+#EXTINF:-1,oe24 TV (Austria)
+http://apasfoe24l.sf.apa.at/ipad/oe24-live1/oe24.sdp/playlist.m3u8
+#EXTINF:-1,OKTO (Austria)
+https://d38d1dtxhym0zi.cloudfront.net/LiveHTTPOrigin/okto/playlist.m3u8
+#EXTINF:-1,P3tv (Austria)
+http://p3-6.mov.at:1935/live/weekstream/playlist.m3u8
+#EXTINF:-1,SERVUS TV HD (Austria)
+https://rbmn-live.akamaized.net/hls/live/2002830/geoSTVDEweb/master_6692.m3u8
+#EXTINF:-1,Wien 24 TV (Austria)
+https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
+#EXTINF:-1,Chamber TV (Luxembourg)
+https://media.webtvlive.eu/chd/_definst_/smil:chamber_tv.smil/playlist.m3u8
+#EXTINF:-1,Eldoradio (Luxembourg)
+https://live-edge.rtl.lu/eldotv/smil:eldotv.smil/chunklist_b4168000_slltz.m3u8
+#EXTINF:-1,RTL Luxemburg (Luxembourg)
+http://live01.rtl.lu/channel1/smil:channel1/master.m3u8
+#EXTINF:-1,RTL Luxemburg 2 (Luxembourg)
+http://live01.rtl.lu/channel2/smil:channel2/playlist.m3u8
+#EXTINF:-1,TV MCJ (Luxembourg)
+https://v5.ciclano.io:1443/tvmcj/_definst_/tvmcj/playlist.m3u8
+#EXTINF:-1,Beatz TV (Swiss)
+https://beats_1.vedge.infomaniak.com/livecast/beats_1/playlist.m3u8
+#EXTINF:-1,Kanal 9 HD (Swiss)
+https://livesd2.vedge.infomaniak.com/livecast/livesd2/master.m3u8
+#EXTINF:-1,QS24 TV (Swiss)
+http://62.113.221.4/tv2000plus-live/_definst_/mp4:quantisana/playlist.m3u8
+#EXTINF:-1,Radio Pilatus (Swiss)
+https://livevideo.infomaniak.com/streaming/livecast/rp_tv_1/playlist.m3u8
+#EXTINF:-1,Radio Südostschweiz (Swiss)
+https://swisstxt2-lh.akamaihd.net/i/grischa_1@144003/index_1100_av-p.m3u8
+#EXTINF:-1,Radio Zürisee (Swiss)
+https://livevideo.infomaniak.com/streaming/livecast/radiozuriseelive/playlist.m3u8
+#EXTINF:-1,Tele Bärn (Swiss)
+http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/sd/10000/t/XTGwenpKUhx_fbVnsiu9MQ/master.m3u8
+#EXTINF:-1,Tele Basel (Swiss)
+http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/master.m3u8
+#EXTINF:-1,Tele Bielingue (Swiss)
+http://livevideo.infomaniak.com/streaming/livecast/telebielinguech/playlist.m3u8
+#EXTINF:-1,Tele M1 HD (Swiss)
+https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_ljzy3evp/format/applehttp/protocol/https/a.m3u8B
+#EXTINF:-1,TVM 3 (Swiss)
+http://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
+#EXTINF:-1,TVO (Swiss)
+https://tvo.vedge.infomaniak.com/livecast/tvo/master.m3u8
+#EXTINF:-1,TV Zürich (Swiss)
+https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/0_josiatxf/format/applehttp/protocol/https/a.m3u8
