@@ -21,6 +21,8 @@ https://zdf-hls-01.akamaized.net/hls/live/2002460/de/high/master.m3u8
 https://zdfhls17-i.akamaihd.net/hls/live/744750/de/high/master.m3u8
 #EXTINF:-1,ZDF neo
 https://zdf-hls-02.akamaized.net/hls/live/2002461/de/high/master.m3u8
+#EXTINF:-1,Al Arabiya
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1,Tagesschau 24
 http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
 #EXTINF:-1,BR HD Nord
