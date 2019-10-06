@@ -15,7 +15,7 @@ http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/master.m3u8
 http://onelivestream-lh.akamaihd.net/i/one_livestream@568814/master.m3u8
 #EXTINF:-1,Phoenix
 https://zdfhls19-i.akamaihd.net/hls/live/744752/de/high/master.m3u8
-#EXTINF:-1, tvg-id="ZDF HD" tvg-name="ZDF HD" tvg-logo=" https://de.wikipedia.org/wiki/ZDF#/media/Datei:ZDF_logo.svg" group-title="",ZDF HD
+#EXTINF:-1, tvg-id="ZDF HD" tvg-name="ZDF HD" tvg-logo="https://www.geolitico.de/wp-content/uploads/2019/05/ZDF-620x300.png" group-title="",ZDF HD
 https://zdf-hls-01.akamaized.net/hls/live/2002460/de/high/master.m3u8
 #EXTINF:-1,ZDF info
 https://zdfhls17-i.akamaihd.net/hls/live/744750/de/high/master.m3u8
