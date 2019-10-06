@@ -17,7 +17,7 @@ http://onelivestream-lh.akamaihd.net/i/one_livestream@568814/master.m3u8
 https://zdfhls19-i.akamaihd.net/hls/live/744752/de/high/master.m3u8
 #EXTINF:-1, tvg-id="ZDF HD" tvg-name="ZDF HD" tvg-logo="https://www.geolitico.de/wp-content/uploads/2019/05/ZDF-620x300.png" group-title="",ZDF HD
 https://zdf-hls-01.akamaized.net/hls/live/2002460/de/high/master.m3u8
-#EXTINF:-1,ZDF info
+#EXTINF:-1, tvg-id="ZDF info" tvg-name="ZDF info" tvg-logo="https://cache.pressmailing.net/thumbnail/story_big/4e35dcf9-37f8-4a67-b4ed-8bd9abfaf92e/zdfinfo-steigert-2018-seinen-marktanteil-erneut" group-title="",ZDF info
 https://zdfhls17-i.akamaihd.net/hls/live/744750/de/high/master.m3u8
 #EXTINF:-1,ZDF neo
 https://zdf-hls-02.akamaized.net/hls/live/2002461/de/high/master.m3u8
