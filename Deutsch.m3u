@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="http://195.154.221.171/epg/guidegermany.xml.gz"
 #EXTINF:-1,3sat
 https://zdfhls18-i.akamaihd.net/hls/live/744751/dach/high/master.m3u8
 #EXTINF:-1,arte
@@ -15,7 +15,7 @@ http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/master.m3u8
 http://onelivestream-lh.akamaihd.net/i/one_livestream@568814/master.m3u8
 #EXTINF:-1,Phoenix
 https://zdfhls19-i.akamaihd.net/hls/live/744752/de/high/master.m3u8
-#EXTINF:-1,ZDF HD
+#EXTINF:-1, tvg-id="ZDF HD" tvg-name="ZDF HD" tvg-logo=" https://de.wikipedia.org/wiki/ZDF#/media/Datei:ZDF_logo.svg" group-title="",ZDF HD
 https://zdf-hls-01.akamaized.net/hls/live/2002460/de/high/master.m3u8
 #EXTINF:-1,ZDF info
 https://zdfhls17-i.akamaihd.net/hls/live/744750/de/high/master.m3u8
