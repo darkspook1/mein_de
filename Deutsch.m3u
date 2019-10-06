@@ -23,6 +23,8 @@ https://zdfhls17-i.akamaihd.net/hls/live/744750/de/high/master.m3u8
 https://zdf-hls-02.akamaized.net/hls/live/2002461/de/high/master.m3u8
 #EXTINF:-1,tvg-id="Al Arabiya" tvg-name="Al Arabiya" tvg-logo="https://cache.pressmailing.net/thumbnail/story_big/4e35dcf9-37f8-4a67-b4ed-8bd9abfaf92e/zdfinfo-steigert-2018-seinen-marktanteil-erneut" group-title="",Al Arabiya
 http://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:-1,Al Arabiya2
+https://youtu.be/WI86J46VRUc
 #EXTINF:-1,Tagesschau 24
 http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
 #EXTINF:-1,BR HD Nord
