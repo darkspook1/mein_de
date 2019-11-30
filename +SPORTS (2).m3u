@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1,SPORT TV _1
+rtmp://89.163.224.168:80/live/sporttv1
+#EXTINF:-1,SPORT TV _2
+rtmp://89.163.224.168:80/live/sporttv2
+#EXTINF:-1,SPORT TV _3
+rtmp://89.163.224.168:80/live/sporttv3
+#EXTINF:-1,SPORT TV _4
+rtmp://89.163.224.168:80/live/sporttv4
+#EXTINF:-1,SPORT TV _5
+rtmp://89.163.224.168:80/live/sporttv5
