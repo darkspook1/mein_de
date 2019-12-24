@@ -1,62 +1,61 @@
 #EXTM3U x-tvg-url="http://195.154.221.171/epg/guidegermany.xml.gz"
-#EXTINF:-1,3sat
+#EXTINF:-1, tvg-id="3sat" tvg-name="3sat" tvg-logo="https://www.satlogo.com/hires/num/3sat_de_hd.png" group-title="",3sat
 https://zdfhls18-i.akamaihd.net/hls/live/744751/dach/high/master.m3u8
-#EXTINF:-1,arte
+#EXTINF:-1, tvg-id="arte" tvg-name="arte" tvg-logo="https://www.medienspürnase.de/wp-content/uploads/2015/01/Logo-by-arte.pngg" group-title="",arte
 http://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8
-#EXTINF:-1,ARD-Alpha
+
+
+#EXTINF:-1, tvg-id="ARD-Alpha" tvg-name="ARD-Alpha" tvg-logo="https://board.newnigma2.to/wbb4/index.php/Attachment/40196-1-0-19-2889-40F-1-C00000-0-0-0-png/?s=a254e8fa379edc6d82d51e739a24ea804ae66ae4" group-title="",ARD-Alpha
 http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8
-#EXTINF:-1,Das Erste HD
+
+#EXTINF:-1, tvg-id="Das Erste HD" tvg-name="Das Erste HD" tvg-logo="https://www.seekpng.com/png/full/89-891940_das-erste-hd-corner-logo-2015-das-erste.png" group-title="",Das Erste HD
 https://derste247livede.akamaized.net/hls/live/658317/daserste_de/master.m3u8
-#EXTINF:-1,Das Erste (mcdn)
+
+#EXTINF:-1, tvg-id="Das Erste HD2" tvg-name="Das Erste HD2" tvg-logo="https://www.seekpng.com/png/full/89-891940_das-erste-hd-corner-logo-2015-das-erste.png" group-title="",Das Erste HD2
 https://mcdn.daserste.de/daserste/de/master_3744.m3u8
-#EXTINF:-1,Deutsche Welle
+
+#EXTINF:-1, tvg-id="Deutsche Welle" tvg-name="Deutsche Welle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Deutsche_Welle_Logo.svg/743px-Deutsche_Welle_Logo.svg.png" group-title="",Deutsche Welle
 http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/master.m3u8
-#EXTINF:-1,One HD
+
+#EXTINF:-1, tvg-id="One HD" tvg-name="One HD" tvg-logo="https://www.unitymedia.de/content/dcomm-unitymedia-de/imports/channels/ch_297_one_hd/logo.img.png" group-title="",One HD
 http://onelivestream-lh.akamaihd.net/i/one_livestream@568814/master.m3u8
-#EXTINF:-1,Phoenix
+
+#EXTINF:-1, tvg-id="Phoenix" tvg-name="Phoenix" tvg-logo="https://www.satlogo.com/hires/pp/phoenix_de_hd.png" group-title="",Phoenix
 https://zdfhls19-i.akamaihd.net/hls/live/744752/de/high/master.m3u8
+
 #EXTINF:-1, tvg-id="ZDF HD" tvg-name="ZDF HD" tvg-logo="https://www.geolitico.de/wp-content/uploads/2019/05/ZDF-620x300.png" group-title="",ZDF HD
 https://zdf-hls-01.akamaized.net/hls/live/2002460/de/high/master.m3u8
+
 #EXTINF:-1, tvg-id="ZDF info" tvg-name="ZDF info" tvg-logo="https://cache.pressmailing.net/thumbnail/story_big/4e35dcf9-37f8-4a67-b4ed-8bd9abfaf92e/zdfinfo-steigert-2018-seinen-marktanteil-erneut" group-title="",ZDF info
 https://zdfhls17-i.akamaihd.net/hls/live/744750/de/high/master.m3u8
-#EXTINF:-1,ZDF neo
+
+#EXTINF:-1, tvg-id="ZDF neo" tvg-name="ZDF neo" tvg-logo="https://png2.kisspng.com/sh/01984f1cb1365cb9600cd2566f50e28f/L0KzQYm3VsE1N6dofpH0aYP2gLBuTgplbppzftG2enTpfrb2Tfhqb5kyfNdvaX7shLr2jr11bZ1qjtt8aXBxPbBsj702amM3Tqc6OHTodoPpVr45PGk2Sqs7M0G4QomCWMA4PmEASaU7LoDxd1==/kisspng-zdfinfo-zdfneo-high-definition-television-neo-5b226518def2b6.8481292315289807609132.png" group-title="",ZDF neo
 https://zdf-hls-02.akamaized.net/hls/live/2002461/de/high/master.m3u8
-#EXTINF:-1,tvg-id="Al Arabiya" tvg-name="Al Arabiya" tvg-logo="https://cache.pressmailing.net/thumbnail/story_big/4e35dcf9-37f8-4a67-b4ed-8bd9abfaf92e/zdfinfo-steigert-2018-seinen-marktanteil-erneut" group-title="",Al Arabiya
-http://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
-#EXTINF:-1,Al Arabiya2
-https://youtu.be/WI86J46VRUc
-#EXTINF:-1,Tagesschau 24
-http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
-#EXTINF:-1,BR HD Nord
-http://livestreams.br.de/i/bfsnord_germany@119898/master.m3u8
-#EXTINF:-1,BR HD Sued
-http://livestreams.br.de/i/bfssued_germany@119890/master.m3u8
-#EXTINF:-1,HR
-http://live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/master.m3u8
-#EXTINF:-1,KiKa HD
+
+#EXTINF:-1, tvg-id="KiKa HD" tvg-name="KiKa HD" tvg-logo="http://www.hd-sender.com/files/2013/05/xkika-hd-logo.png.pagespeed.ic.za5mvZT8Tx.png" group-title="",KiKa HD
 https://kikade-lh.akamaihd.net/i/livetvkika_de@450035/master.m3u8
-#EXTINF:-1,MDR Sachsen
+
+#EXTINF:-1, tvg-id="MDR Sachsen" tvg-name="MDR Sachsen" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/Mdr_Fernsehen_HD_Logo_2017.png" group-title="",MDR Sachsen
 https://mdrsnhls-lh.akamaihd.net/i/livetvmdrsachsen_de@513998/master.m3u8
-#EXTINF:-1,MDR Sachsen-Anhalt
+
+#EXTINF:-1, tvg-id="MDR Sachsen-Anhalt" tvg-name="MDR Sachsen-Anhalt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/Mdr_Fernsehen_HD_Logo_2017.png" group-title="",MDR Sachsen-Anhalt
 https://mdrsahls-lh.akamaihd.net/i/livetvmdrsachsenanhalt_de@513999/master.m3u8
-#EXTINF:-1,MDR Thüringen
+
+#EXTINF:-1, tvg-id="MDR Thüringen" tvg-name="MDR Thüringen" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/Mdr_Fernsehen_HD_Logo_2017.png" group-title="",MDR Thüringen
 https://mdrthuhls-lh.akamaihd.net/i/livetvmdrthueringen_de@514027/master.m3u8
-#EXTINF:-1,NDR Hamburg
-https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/master.m3u8
-#EXTINF:-1,NDR Mecklenburg-Vorpommern
-https://ndrfs-lh.akamaihd.net/i/ndrfs_mv@430232/master.m3u8
-#EXTINF:-1,NDR Niedersachsen
-https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/index_3776_av-p.m3u8
-#EXTINF:-1,NDR Schleswig-Holstein
-https://ndrfs-lh.akamaihd.net/i/ndrfs_sh@430234/master.m3u8
-#EXTINF:-1,RBB Berlin
+
+#EXTINF:-1, tvg-id="RBB Berlin" tvg-name="RBB Berlin" tvg-logo="https://www.rbb-online.de/content/dam/rbb/rbb/logos/rbb-logo.svg.svg/img.svg" group-title="",RBB Berlin
 https://rbblive-lh.akamaihd.net/i/rbb_berlin@144674/master.m3u8
+
 #EXTINF:-1,RBB Brandenburg
 https://rbblive-lh.akamaihd.net/i/rbb_brandenburg@349369/master.m3u8
+
 #EXTINF:-1,SR HD
 http://livestream.sr-online.de/live.m3u8
+
 #EXTINF:-1,SWR HD Baden-Württemberg
 https://swrbwhls-i.akamaihd.net/hls/live/667638/swrbwd/master.m3u8
+
 #EXTINF:-1,SWR HD Rheinland-Pfalz
 http://swrrp-lh.akamaihd.net/i/swrrp_live@196739/master.m3u8
 #EXTINF:-1,WDR HD (geoblocking)
