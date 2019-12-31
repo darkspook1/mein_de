@@ -3,7 +3,8 @@
 https://zdfhls18-i.akamaihd.net/hls/live/744751/dach/high/master.m3u8
 #EXTINF:-1, tvg-id="arte" tvg-name="arte" tvg-logo="https://www.medienspürnase.de/wp-content/uploads/2015/01/Logo-by-arte.pngg" group-title="",arte
 http://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8
-
+#EXTINF:-1,CBC Sofra AR
+http://iptv.rent:80/7d8lctmgx5/at538gqwv1/5831
 
 #EXTINF:-1, tvg-id="ARD-Alpha" tvg-name="ARD-Alpha" tvg-logo="https://board.newnigma2.to/wbb4/index.php/Attachment/40196-1-0-19-2889-40F-1-C00000-0-0-0-png/?s=a254e8fa379edc6d82d51e739a24ea804ae66ae4" group-title="",ARD-Alpha
 http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8
